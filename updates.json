@@ -36,10 +36,10 @@
   }
  },
  "manager": {
-  "version": "1.0.1",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.1/NASCAR26-ModManager-1.0.1.zip",
-  "sha256": "3bce7af6031328c65995bc44e5700fa00f9d81b1c1f2896fa7a2690bd551dc84",
-  "notes": "The list now shows only the mods you add yourself, and the window has one simple mode: it installs for real."
+  "version": "1.0.2",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.2/NASCAR26-ModManager-1.0.2.zip",
+  "sha256": "88c676efea8238c08dbae3e9b56942fefe45df91534a786953c08726335e847e",
+  "notes": "Finds NASCAR 26 on any Steam drive; Settings shows just the game folder."
  },
- "updated": "2026-10-23T15:07:21"
+ "updated": "2026-10-23T15:16:06"
 }
