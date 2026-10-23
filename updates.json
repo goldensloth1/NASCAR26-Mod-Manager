@@ -4,6 +4,11 @@
    "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/tracklist-25946225/TrackList-25946225.zip",
    "sha256": "5dbadca8df35c0e4f8e72d272650a1e074805678add4e5bf344b78dfccc0af15",
    "pakchunk0_pak_sha256": "faaeec7f290af79643fac2bc38474da183e6ea4939c962795febfda91e1ea73d"
+  },
+  "26166077": {
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/tracklist-26166077/TrackList-26166077.zip",
+   "sha256": "245e7b1931f16031f009fdc6ff77fe3e6215634fc76e9364baa5cd2d0e187ef6",
+   "pakchunk0_pak_sha256": "c3721a99478ae96be96085ed0c34b6a5a9a209c139ac4ff8c075a862572e8887"
   }
  },
  "mods": {
@@ -36,5 +41,5 @@
   "sha256": "3bce7af6031328c65995bc44e5700fa00f9d81b1c1f2896fa7a2690bd551dc84",
   "notes": "The list now shows only the mods you add yourself, and the window has one simple mode: it installs for real."
  },
- "updated": "2026-10-23T15:01:28"
+ "updated": "2026-10-23T15:07:21"
 }
