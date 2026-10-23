@@ -15,7 +15,9 @@
    "size": 83069974,
    "credits": [
     "vhr_auto-club-speedway v2.1: VHR StockCar Ovals by Rainmaker (from CorvetteDave's rFactor track)"
-   ]
+   ],
+   "type": "track",
+   "description": "Auto Club Speedway in Fontana, California - the 2-mile D-oval, in its own spot in the track list. Races for every series: Cup 'California 400', O'Reilly 'Inland Empire 300', Truck 'Fontana 200' and ARCA 'Fontana 150'. Use Career races to put it into your career."
   },
   "freecam": {
    "name": "Free Cam",
@@ -23,14 +25,16 @@
    "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.0/FreeCam-1.0.0.zip",
    "sha256": "b345c4ce91951460f20eda275ff435607a36cc1f7bb026bd12784af721a80ee4",
    "size": 103848,
-   "credits": []
+   "credits": [],
+   "type": "mod",
+   "description": "Free camera in races. F5 = free cam with the race (and your car) frozen, F6 = free cam with the race running, I/J/K/L = look; press the same key again to go back. Loaded automatically by the mods loader. Logs to Binaries\\Win64\\FreeCam.log. If F5 does nothing after a game update, check FreeCam.log (it needs a rebuild against the new build)."
   }
  },
  "manager": {
-  "version": "1.0.0",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.0/NASCAR26-ModManager-1.0.0.zip",
-  "sha256": "8d4c01079e271297cd36f10747a477136a4305f52ce101cbe64e8e1d08f9f4d1",
-  "notes": "First release: drag-and-drop track ports and mods for NASCAR 26."
+  "version": "1.0.1",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.1/NASCAR26-ModManager-1.0.1.zip",
+  "sha256": "3bce7af6031328c65995bc44e5700fa00f9d81b1c1f2896fa7a2690bd551dc84",
+  "notes": "The list now shows only the mods you add yourself, and the window has one simple mode: it installs for real."
  },
- "updated": "2026-10-23T14:51:24"
+ "updated": "2026-10-23T15:01:28"
 }
