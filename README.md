@@ -13,7 +13,7 @@ Windows may say "Windows protected your PC" the first time because the app is ne
 | | Version | Download |
 |---|---|---|
 | Auto Club Speedway (Fontana) | 0.2.0 | [AutoClubSpeedway-0.2.0.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/autoclub-0.2.0/AutoClubSpeedway-0.2.0.zip) (79.2 MB) |
-| Free Cam | 1.0.0 | [FreeCam-1.0.0.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.0/FreeCam-1.0.0.zip) (101.4 KB) |
+| Free Cam | 1.0.1 | [FreeCam-1.0.1.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.1/FreeCam-1.0.1.zip) (103.0 KB) |
 
 ## Credits
 
