@@ -50,10 +50,10 @@
   }
  },
  "manager": {
-  "version": "1.0.6",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.6/NASCAR26-ModManager-1.0.6.zip",
-  "sha256": "dc2d88b2d49511b49456bb21de4b87ab293a65475e4ef1d15e65fbc89e548c00",
-  "notes": "Mod updates now replace the zip in your mods folder with the new version's zip (e.g. FreeCam-1.0.6.zip becomes FreeCam-1.0.7.zip)."
+  "version": "1.0.7",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.7/NASCAR26-ModManager-1.0.7.zip",
+  "sha256": "20b789b4142e12e571bd6cfbb94a27640d7c1cb99c16069f5c1c1a92086fbf0e",
+  "notes": "No more blank terminal window during an update. The Mod Manager restarts by itself after it or any of your mods updates, and tells you what was updated."
  },
- "updated": "2026-10-23T23:50:46"
+ "updated": "2026-10-24T00:01:56"
 }
