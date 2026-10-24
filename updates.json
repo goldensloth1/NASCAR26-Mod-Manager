@@ -26,13 +26,13 @@
   },
   "freecam": {
    "name": "Free Cam",
-   "version": "1.0.0",
-   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.0/FreeCam-1.0.0.zip",
-   "sha256": "b345c4ce91951460f20eda275ff435607a36cc1f7bb026bd12784af721a80ee4",
-   "size": 103848,
-   "credits": [],
    "type": "mod",
-   "description": "Free camera in races. F5 = free cam with the race (and your car) frozen, F6 = free cam with the race running, I/J/K/L = look; press the same key again to go back. Loaded automatically by the mods loader. Logs to Binaries\\Win64\\FreeCam.log. If F5 does nothing after a game update, check FreeCam.log (it needs a rebuild against the new build)."
+   "description": "Free camera in races. F5 = free cam with the race (and your car) frozen, F6 = free cam with the race running, I/J/K/L = look; press the same key again to go back. Loaded automatically by the mods loader. Logs to Binaries\\Win64\\FreeCam.log. If F5 does nothing after a game update, check FreeCam.log (it needs a rebuild against the new build).",
+   "version": "1.0.1",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.1/FreeCam-1.0.1.zip",
+   "sha256": "5297f1b3e8b449798b99ccd4358b7598b3b9364340738681799b802e7a6bce80",
+   "size": 105466,
+   "credits": []
   }
  },
  "manager": {
@@ -41,5 +41,5 @@
   "sha256": "d01d6db0b82f0eb1934640cbc90a33bac96bcd145500b3503784757250973326",
   "notes": "Fixes a crash when dragging a mod onto the window; big mods are added in the background."
  },
- "updated": "2026-10-23T21:18:41"
+ "updated": "2026-10-23T22:05:57"
 }
