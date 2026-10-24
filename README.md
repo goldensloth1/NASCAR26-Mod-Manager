@@ -13,7 +13,7 @@ Windows may say "Windows protected your PC" the first time because the app is ne
 | | Version | Download |
 |---|---|---|
 | Auto Club Speedway (Fontana) | 0.2.0 | [AutoClubSpeedway-0.2.0.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/autoclub-0.2.0/AutoClubSpeedway-0.2.0.zip) (79.2 MB) |
-| Free Cam | 1.0.3 | [FreeCam-1.0.3.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.3/FreeCam-1.0.3.zip) (107.2 KB) |
+| Free Cam | 1.0.4 | [FreeCam-1.0.4.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.4/FreeCam-1.0.4.zip) (107.8 KB) |
 | Mexico City - Autódromo Hermanos Rodríguez (NASCAR layout) | 1.4.0 | [MexicoCity-1.4.0.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/mexico-1.4.0/MexicoCity-1.4.0.zip) (178.6 MB) |
 
 ## Credits
