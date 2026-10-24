@@ -50,10 +50,10 @@
   }
  },
  "manager": {
-  "version": "1.0.7",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.7/NASCAR26-ModManager-1.0.7.zip",
-  "sha256": "20b789b4142e12e571bd6cfbb94a27640d7c1cb99c16069f5c1c1a92086fbf0e",
-  "notes": "No more blank terminal window during an update. The Mod Manager restarts by itself after it or any of your mods updates, and tells you what was updated."
+  "version": "1.0.8",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.8/NASCAR26-ModManager-1.0.8.zip",
+  "sha256": "f62bff789e12462ce954491fddb10a2bab4b7169766afc1943380f5e4d01908e",
+  "notes": "Shows mod files in NASCAR 26 that weren't added with the Mod Manager (they can replace stock tracks or hide your track ports), with Details and Open folder. New: Tools > Copy report (for help)."
  },
- "updated": "2026-10-24T00:01:56"
+ "updated": "2026-10-24T00:57:24"
 }
