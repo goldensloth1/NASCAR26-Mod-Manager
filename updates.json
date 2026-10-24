@@ -50,10 +50,10 @@
   }
  },
  "manager": {
-  "version": "1.0.5",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.5/NASCAR26-ModManager-1.0.5.zip",
-  "sha256": "7aad3e65f697c18b9f3f4b5ad26e29f56b675c644ecfad77a8e59c36be5dd2c5",
-  "notes": "Tools > Check for updates: checks the Mod Manager and your installed mods, with a result message; updates are seen right after they're published."
+  "version": "1.0.6",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.6/NASCAR26-ModManager-1.0.6.zip",
+  "sha256": "dc2d88b2d49511b49456bb21de4b87ab293a65475e4ef1d15e65fbc89e548c00",
+  "notes": "Mod updates now replace the zip in your mods folder with the new version's zip (e.g. FreeCam-1.0.6.zip becomes FreeCam-1.0.7.zip)."
  },
- "updated": "2026-10-23T23:49:46"
+ "updated": "2026-10-23T23:50:46"
 }
