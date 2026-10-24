@@ -38,10 +38,10 @@
    "name": "Mexico City - Autódromo Hermanos Rodríguez (NASCAR layout)",
    "type": "track",
    "description": "ACU's acu_mexico_2021 with our NASCAR link-road layout, in its own menu slot (Track_Mexico). Cup, O'Reilly, Truck and ARCA events, own logos, pits, AI targets and baseline setups.",
-   "version": "1.5.0",
-   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/mexico-1.5.0/MexicoCity-1.5.0.zip",
-   "sha256": "c06c679ace0439d559ed3fc73024a1d2912e33f472cfa67c280d98a0f4a98628",
-   "size": 187279046,
+   "version": "1.5.1",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/mexico-1.5.1/MexicoCity-1.5.1.zip",
+   "sha256": "d545e26998bd5865ed02a50bfca6aafabc55dd429a659eff56ff31a8c9170163",
+   "size": 187285277,
    "credits": [
     "acu_mexico_2021: ACU (Assetto Corsa Union)",
     "AI update: mksg",
@@ -55,5 +55,5 @@
   "sha256": "7aad3e65f697c18b9f3f4b5ad26e29f56b675c644ecfad77a8e59c36be5dd2c5",
   "notes": "Tools > Check for updates: checks the Mod Manager and your installed mods, with a result message; updates are seen right after they're published."
  },
- "updated": "2026-10-23T23:43:44"
+ "updated": "2026-10-23T23:49:46"
 }
