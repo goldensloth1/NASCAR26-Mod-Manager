@@ -28,10 +28,10 @@
    "name": "Free Cam",
    "type": "mod",
    "description": "Free camera in races and replays. F5 = free cam with the race frozen (in a replay: the replay is held where you are), F6 = free cam with the race running, I/J/K/L = look; press the same key again to go back. All on-screen UI is hidden while the free cam is on and comes back when you turn it off, and the replay's own controls don't react while you fly around.",
-   "version": "1.0.3",
-   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.3/FreeCam-1.0.3.zip",
-   "sha256": "a0d4134b609b39a9382452b8db5f0db953613a18a1da0a46576853811c9b49e9",
-   "size": 109812,
+   "version": "1.0.4",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.4/FreeCam-1.0.4.zip",
+   "sha256": "f2d5bc0821435bd2f351087f33dd2215bd4f8d8b2ab87be04887e732814aa7d9",
+   "size": 110433,
    "credits": []
   },
   "mexico": {
@@ -55,5 +55,5 @@
   "sha256": "7aad3e65f697c18b9f3f4b5ad26e29f56b675c644ecfad77a8e59c36be5dd2c5",
   "notes": "Tools > Check for updates: checks the Mod Manager and your installed mods, with a result message; updates are seen right after they're published."
  },
- "updated": "2026-10-23T23:03:08"
+ "updated": "2026-10-23T23:16:47"
 }
