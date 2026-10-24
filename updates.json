@@ -16,10 +16,10 @@
    "name": "Auto Club Speedway (Fontana)",
    "type": "track",
    "description": "Auto Club Speedway in Fontana, California - the 2-mile D-oval, in its own spot in the track list. Races for every series: Cup 'California 400', O'Reilly 'Inland Empire 300', Truck 'Fontana 200' and ARCA 'Fontana 150'. Use Career races to put it into your career.",
-   "version": "0.3.1",
-   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/autoclub-0.3.1/AutoClubSpeedway-0.3.1.zip",
-   "sha256": "425d55b9ee4b95a43064b629694ace7ab2ff4d7d5a26a4dcbc6c5045672485ef",
-   "size": 83080076,
+   "version": "0.3.2",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/autoclub-0.3.2/AutoClubSpeedway-0.3.2.zip",
+   "sha256": "249db60e8f100ac44a2e4a2d988c3a4836ffb146f2cfb7ad3a5cc162fea8d8ae",
+   "size": 83067766,
    "credits": [
     "vhr_auto-club-speedway v2.1: VHR StockCar Ovals by Rainmaker (from CorvetteDave's rFactor track)"
    ]
@@ -55,5 +55,5 @@
   "sha256": "f62bff789e12462ce954491fddb10a2bab4b7169766afc1943380f5e4d01908e",
   "notes": "Shows mod files in NASCAR 26 that weren't added with the Mod Manager (they can replace stock tracks or hide your track ports), with Details and Open folder. New: Tools > Copy report (for help)."
  },
- "updated": "2026-10-24T00:57:24"
+ "updated": "2026-10-24T01:06:05"
 }
