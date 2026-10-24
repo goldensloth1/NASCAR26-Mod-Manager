@@ -36,10 +36,10 @@
   }
  },
  "manager": {
-  "version": "1.0.2",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.2/NASCAR26-ModManager-1.0.2.zip",
-  "sha256": "88c676efea8238c08dbae3e9b56942fefe45df91534a786953c08726335e847e",
-  "notes": "Finds NASCAR 26 on any Steam drive; Settings shows just the game folder."
+  "version": "1.0.3",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.3/NASCAR26-ModManager-1.0.3.zip",
+  "sha256": "4a8f2ca6f1ecc1f70096751f1cc6542136fdf71fbb842142405ec5de88e5537f",
+  "notes": "Deleting a mod's file from the mods folder now removes it from the list; Mods > Remove from list; updated README."
  },
- "updated": "2026-10-23T15:16:06"
+ "updated": "2026-10-23T21:04:19"
 }
