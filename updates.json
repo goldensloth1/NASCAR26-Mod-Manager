@@ -50,10 +50,10 @@
   }
  },
  "manager": {
-  "version": "1.0.9",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.9/NASCAR26-ModManager-1.0.9.zip",
-  "sha256": "d7f91810687853d653dea5fc3e8c09a559ab83e980ddfe7fba35c7b4de8a2b63",
-  "notes": "Roster mods that bring their own track list (like CustomRoster) now work together with track ports: the Mod Manager combines the two lists. When no track list matches your game, it now tells you why (update NASCAR 26, let Steam finish, verify the game files, ...). A mod update that can't install yet no longer stops the other startup checks."
+  "version": "1.0.10",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.10/NASCAR26-ModManager-1.0.10.zip",
+  "sha256": "7f8abb14d853943db3e4d60752844968e929dc92b2192344690a350e76746053",
+  "notes": "Tracks that are already in the game (for example installed by another copy of the Mod Manager) now stay in the track list instead of disappearing from the menus. If your track list is missing a track, or something outside the Mod Manager replaced it, a bar offers Fix now. Known tracks are no longer listed as other mods."
  },
- "updated": "2026-10-24T01:55:49"
+ "updated": "2026-10-24T22:11:08"
 }
