@@ -50,10 +50,10 @@
   }
  },
  "manager": {
-  "version": "1.0.10",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.10/NASCAR26-ModManager-1.0.10.zip",
-  "sha256": "7f8abb14d853943db3e4d60752844968e929dc92b2192344690a350e76746053",
-  "notes": "Tracks that are already in the game (for example installed by another copy of the Mod Manager) now stay in the track list instead of disappearing from the menus. If your track list is missing a track, or something outside the Mod Manager replaced it, a bar offers Fix now. Known tracks are no longer listed as other mods."
+  "version": "1.0.11",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.11/NASCAR26-ModManager-1.0.11.zip",
+  "sha256": "2ac910d947712d43623c0144811eeeaeb7236f42329e5b12d8597998cb2bb450",
+  "notes": "New: Tools > Dark mode (remembered between starts)."
  },
- "updated": "2026-10-24T22:11:08"
+ "updated": "2026-10-24T22:16:08"
 }
