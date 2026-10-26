@@ -50,10 +50,10 @@
   }
  },
  "manager": {
-  "version": "1.0.12",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.12/NASCAR26-ModManager-1.0.12.zip",
-  "sha256": "2048dc01c25a3c5da2665ca69e565e859ec3431ae29df341ad15cb6b758b6cd2",
-  "notes": "Fixes track ports not showing in the game when another mod (a roster or paint mod made with the NASCAR 26 Modding Tool) brings its own track list. Track ports and those mods now work together. If your Mod Manager already combined them, it fixes the track list by itself at the next start."
+  "version": "1.0.13",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.13/NASCAR26-ModManager-1.0.13.zip",
+  "sha256": "1604654f0bbb792dac321d5d5ecd3fa73fad1ca2b828c3a0df611291d539b8bb",
+  "notes": "Works alongside the NASCAR 26 Modding Tool's paint loader: the Mod Manager no longer removes it (VERSION.dll + NASCAR26EditorPaintLoader.enabled), and puts it back by itself if an older version had taken it out. New paint schemes show after you open the Mod Manager once (or start the game from Tools > Start NASCAR 26)."
  },
- "updated": "2026-10-24T23:54:53"
+ "updated": "2026-10-25T20:13:01"
 }

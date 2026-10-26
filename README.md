@@ -4,7 +4,7 @@ Install tracks and mods for NASCAR 26 by dragging them onto a window. It keeps t
 
 ## Download
 
-**[NASCAR 26 Mod Manager 1.0.12](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.12/NASCAR26-ModManager-1.0.12.zip)** - unzip it anywhere (e.g. Documents), start `NASCAR26 Mod Manager.exe`, then drag a track or mod `.zip` onto its window.
+**[NASCAR 26 Mod Manager 1.0.13](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.13/NASCAR26-ModManager-1.0.13.zip)** - unzip it anywhere (e.g. Documents), start `NASCAR26 Mod Manager.exe`, then drag a track or mod `.zip` onto its window.
 
 Windows may say "Windows protected your PC" the first time because the app is new: click **More info**, then **Run anyway**.
 
