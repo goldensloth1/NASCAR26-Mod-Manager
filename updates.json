@@ -16,12 +16,12 @@
    "name": "Auto Club Speedway (Fontana)",
    "type": "track",
    "description": "Auto Club Speedway in Fontana, California - the 2-mile D-oval, in its own spot in the track list. Races for every series: Cup 'California 400', O'Reilly 'Inland Empire 300', Truck 'Fontana 200' and ARCA 'Fontana 150'. Use Career races to put it into your career.",
-   "version": "0.3.2",
-   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/autoclub-0.3.2/AutoClubSpeedway-0.3.2.zip",
-   "sha256": "249db60e8f100ac44a2e4a2d988c3a4836ffb146f2cfb7ad3a5cc162fea8d8ae",
-   "size": 83067766,
+   "version": "0.4.0",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/autoclub-0.4.0/AutoClubSpeedway-0.4.0.zip",
+   "sha256": "1397be51bbadf02c4e14a7fef94b9e25024cd1c5a56334b21303f5b5edb4b65f",
+   "size": 192288202,
    "credits": [
-    "vhr_auto-club-speedway v2.1: VHR StockCar Ovals by Rainmaker (from CorvetteDave's rFactor track)"
+    "Auto Club Speedway for Assetto Corsa (619_fontana22): simracertgirl (ported from NASCAR Heat 5)"
    ]
   },
   "freecam": {
@@ -55,5 +55,5 @@
   "sha256": "1604654f0bbb792dac321d5d5ecd3fa73fad1ca2b828c3a0df611291d539b8bb",
   "notes": "Works alongside the NASCAR 26 Modding Tool's paint loader: the Mod Manager no longer removes it (VERSION.dll + NASCAR26EditorPaintLoader.enabled), and puts it back by itself if an older version had taken it out. New paint schemes show after you open the Mod Manager once (or start the game from Tools > Start NASCAR 26)."
  },
- "updated": "2026-10-25T20:13:01"
+ "updated": "2026-10-27T19:54:37"
 }
