@@ -50,10 +50,10 @@
   }
  },
  "manager": {
-  "version": "1.0.13",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.13/NASCAR26-ModManager-1.0.13.zip",
-  "sha256": "1604654f0bbb792dac321d5d5ecd3fa73fad1ca2b828c3a0df611291d539b8bb",
-  "notes": "Works alongside the NASCAR 26 Modding Tool's paint loader: the Mod Manager no longer removes it (VERSION.dll + NASCAR26EditorPaintLoader.enabled), and puts it back by itself if an older version had taken it out. New paint schemes show after you open the Mod Manager once (or start the game from Tools > Start NASCAR 26)."
+  "version": "1.0.14",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.14/NASCAR26-ModManager-1.0.14.zip",
+  "sha256": "699144010c27d34e08d3cc97fe9b9022b73a3d1809a8f100240482f336d44944",
+  "notes": "Uninstalling and reinstalling no longer fills up the Mod Manager's removed folder: it only keeps other mods' files there now, and old copies of its own tracks and files are cleaned up when it starts, which can free a lot of disk space. Also fixed: updating a mod that replaces one of the game's own files could leave the mod's old version behind after uninstalling it."
  },
- "updated": "2026-10-27T19:54:37"
+ "updated": "2026-10-27T20:04:42"
 }
