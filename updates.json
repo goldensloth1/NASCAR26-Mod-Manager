@@ -50,10 +50,10 @@
   }
  },
  "manager": {
-  "version": "1.0.14",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.14/NASCAR26-ModManager-1.0.14.zip",
-  "sha256": "699144010c27d34e08d3cc97fe9b9022b73a3d1809a8f100240482f336d44944",
-  "notes": "Uninstalling and reinstalling no longer fills up the Mod Manager's removed folder: it only keeps other mods' files there now, and old copies of its own tracks and files are cleaned up when it starts, which can free a lot of disk space. Also fixed: updating a mod that replaces one of the game's own files could leave the mod's old version behind after uninstalling it."
+  "version": "1.0.15",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.15/NASCAR26-ModManager-1.0.15.zip",
+  "sha256": "55321d1fbd06154af7a910a03c3e331a8e93020673d1c7f6d611343d9bc28574",
+  "notes": "The Mod Manager no longer keeps every old version in its updates folder: it deletes old updates when it starts, which can free 2 GB or more of disk space. Also fixed: a track port could refuse to install next to another track port because of an old setting from before the Mod Manager (it now writes one track list for all of them)."
  },
- "updated": "2026-10-27T20:04:42"
+ "updated": "2026-10-27T21:58:15"
 }
