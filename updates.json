@@ -50,10 +50,10 @@
   }
  },
  "manager": {
-  "version": "1.0.16",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.16/NASCAR26-ModManager-1.0.16.zip",
-  "sha256": "fe916eeaa18c4d3a186aeb767bc2b59cb51f311322fe59a049dab973c8236f19",
-  "notes": "Track and mod updates now reach everyone: the Mod Manager updates every track and mod in your list when it starts, not only the installed ones. Before, a track you had added but not installed kept its old version, and installing it later put that old version in the game."
+  "version": "1.0.17",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.17/NASCAR26-ModManager-1.0.17.zip",
+  "sha256": "13c2c5d6798a75296dfb4b0b7a7d6215b5d23722536df8641eafb216ce55f2dc",
+  "notes": "Updates now leave only the new version in your mods folder: the old zip of an updated track or mod is deleted, also when you moved or copied the Mod Manager folder (before, the old zips could stay next to the new ones). A mods folder that still holds old versions is cleaned up the next time the Mod Manager starts."
  },
- "updated": "2026-10-28T20:15:30"
+ "updated": "2026-10-28T21:11:07"
 }
