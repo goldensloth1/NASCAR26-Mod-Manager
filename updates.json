@@ -27,11 +27,11 @@
   "freecam": {
    "name": "Free Cam",
    "type": "mod",
-   "description": "Free camera in races and replays. F5 = free cam with the race frozen (in a replay: the replay is held where you are), F6 = free cam with the race running, I/J/K/L = look; press the same key again to go back. All on-screen UI is hidden while the free cam is on and comes back when you turn it off, and the replay's own controls don't react while you fly around.",
-   "version": "1.0.7",
-   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.7/FreeCam-1.0.7.zip",
-   "sha256": "bc211ac5d6f88d5591d50950b1a6a888ed1429ccc118bc4624ef02d1d23596e4",
-   "size": 113172,
+   "description": "Free camera in races and replays. F5 = free cam with the race frozen (in a replay: the replay is held where you are), F6 = free cam with the race running; press the same key again to go back. While flying: mouse or I/J/K/L = look, controller triggers = tilt (roll) the camera (right trigger clockwise, left anticlockwise, both triggers fully = level again), Shift + plus / Shift + minus (or numpad + / -) = faster / slower in steps (two presses = double / half, 1/8x to 16x). All on-screen UI is hidden while the free cam is on and comes back when you turn it off, and the replay's own controls don't react while you fly around.",
+   "version": "1.0.8",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.8/FreeCam-1.0.8.zip",
+   "sha256": "43801264d0522e4c09f5f40c9c4f032d7623b5564997e1502c2f760e2f2c51d5",
+   "size": 127734,
    "credits": []
   },
   "mexico": {
@@ -55,5 +55,5 @@
   "sha256": "fe916eeaa18c4d3a186aeb767bc2b59cb51f311322fe59a049dab973c8236f19",
   "notes": "Track and mod updates now reach everyone: the Mod Manager updates every track and mod in your list when it starts, not only the installed ones. Before, a track you had added but not installed kept its old version, and installing it later put that old version in the game."
  },
- "updated": "2026-10-28T17:39:42"
+ "updated": "2026-10-28T20:15:30"
 }
