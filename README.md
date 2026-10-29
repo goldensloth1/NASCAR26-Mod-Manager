@@ -27,4 +27,4 @@ Windows may say "Windows protected your PC" the first time because the app is ne
 
 Nothing to do: the Mod Manager checks this page's `updates.json` every time it starts. New versions of the Mod Manager and of your installed mods install themselves, and after a NASCAR 26 update your mods are fixed by themselves as soon as the matching update is published here.
 
-Close NASCAR 26 before installing. Single player only.
+Close NASCAR 26 before installing.
