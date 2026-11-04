@@ -50,10 +50,10 @@
   }
  },
  "manager": {
-  "version": "1.0.17",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.17/NASCAR26-ModManager-1.0.17.zip",
-  "sha256": "13c2c5d6798a75296dfb4b0b7a7d6215b5d23722536df8641eafb216ce55f2dc",
-  "notes": "Updates now leave only the new version in your mods folder: the old zip of an updated track or mod is deleted, also when you moved or copied the Mod Manager folder (before, the old zips could stay next to the new ones). A mods folder that still holds old versions is cleaned up the next time the Mod Manager starts."
+  "version": "1.0.18",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.18/NASCAR26-ModManager-1.0.18.zip",
+  "sha256": "957255b40ff622d41095e1f33e66c9bdbaf93f22f919d5c8ea4376f1cc08aaf0",
+  "notes": "Changes made with the NASCAR 26 Modding Tool (new drivers, paint schemes) now show in the game while track ports are installed, without opening the Mod Manager or uninstalling: when the tool changed something, the game restarts once at launch to combine it. New loader 1.2.0 (installed by itself)."
  },
- "updated": "2026-10-28T21:11:07"
+ "updated": "2026-11-03T22:46:00"
 }
