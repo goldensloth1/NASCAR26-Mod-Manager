@@ -12,6 +12,7 @@ Windows may say "Windows protected your PC" the first time because the app is ne
 
 | | Version | Download |
 |---|---|---|
+| All Tracks - every track in every series | 1.0.0 | [AllTracks-1.0.0.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/alltracks-1.0.0/AllTracks-1.0.0.zip) (104.0 KB) |
 | Auto Club Speedway (Fontana) | 0.4.0 | [AutoClubSpeedway-0.4.0.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/autoclub-0.4.0/AutoClubSpeedway-0.4.0.zip) (183.4 MB) |
 | Free Cam | 1.0.8 | [FreeCam-1.0.8.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.8/FreeCam-1.0.8.zip) (124.7 KB) |
 | Mexico City - Autódromo Hermanos Rodríguez (NASCAR layout) | 1.5.11 | [MexicoCity-1.5.11.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/mexico-1.5.11/MexicoCity-1.5.11.zip) (179.4 MB) |

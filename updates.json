@@ -47,6 +47,16 @@
     "AI update: mksg",
     "tyre wall model (tyrewall2x3.kn5): VRC"
    ]
+  },
+  "alltracks": {
+   "name": "All Tracks - every track in every series",
+   "type": "track",
+   "description": "Every NASCAR 26 track in Cup, O'Reilly, Truck and ARCA Quick Race, each in its own slot: 45 new races, nothing replaced. Unlocks the Chicago Street Course and the Charlotte Motor Speedway Roval in all 4 series. Your stock races and Career are not changed.",
+   "version": "1.0.0",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/alltracks-1.0.0/AllTracks-1.0.0.zip",
+   "sha256": "f90dbaf0346b130342134b859a5375154645c035156604f9211f80e2222d75b2",
+   "size": 106466,
+   "credits": []
   }
  },
  "manager": {
@@ -55,5 +65,5 @@
   "sha256": "cf4966e498deb79e0a0662740b213260732263c821be7015d96a50b1910fea10",
   "notes": "Fixes 1.0.18: after a NASCAR 26 Modding Tool change, the game the Mod Manager starts again could come up without any mods. It now waits for the PC to settle before starting the game, and the loader (1.2.1) unlocks mods faster. Every game start is logged (Win64\\n26loader.log, included in Tools > Copy report)."
  },
- "updated": "2026-11-03T23:42:23"
+ "updated": "2026-11-05T18:51:17"
 }
