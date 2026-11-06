@@ -57,6 +57,16 @@
    "sha256": "f90dbaf0346b130342134b859a5375154645c035156604f9211f80e2222d75b2",
    "size": 106466,
    "credits": []
+  },
+  "camera-tool": {
+   "name": "Camera Tool + Virtual Mirror",
+   "type": "mod",
+   "description": "Move and zoom the seven driving cameras for each series (cockpit, cockpit 2, hood, roof, bumper, chase, far chase) and see the change in your car straight away, resize the on-screen virtual mirror, and allow the virtual mirror in the cockpit views. A small window opens with the game and your settings are put back every time it starts. No game files are changed. Not advisable in multiplayer.",
+   "version": "1.0.0",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/camera-tool-1.0.0/CameraToolVirtualMirror-1.0.0.zip",
+   "sha256": "d5a0c7568c681b59fc8d8f88606558d084a3d3ccbfa2b8a6a70a0a1d2718f459",
+   "size": 32077615,
+   "credits": []
   }
  },
  "manager": {
@@ -65,5 +75,5 @@
   "sha256": "cf4966e498deb79e0a0662740b213260732263c821be7015d96a50b1910fea10",
   "notes": "Fixes 1.0.18: after a NASCAR 26 Modding Tool change, the game the Mod Manager starts again could come up without any mods. It now waits for the PC to settle before starting the game, and the loader (1.2.1) unlocks mods faster. Every game start is logged (Win64\\n26loader.log, included in Tools > Copy report)."
  },
- "updated": "2026-11-05T18:51:17"
+ "updated": "2026-11-05T21:07:57"
 }
