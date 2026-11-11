@@ -20,11 +20,42 @@ Windows may say "Windows protected your PC" the first time because the app is ne
 | Free Cam | 1.0.8 | [FreeCam-1.0.8.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.8/FreeCam-1.0.8.zip) (124.7 KB) |
 | Mexico City - Autódromo Hermanos Rodríguez (NASCAR layout) | 1.5.11 | [MexicoCity-1.5.11.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/mexico-1.5.11/MexicoCity-1.5.11.zip) (179.4 MB) |
 
+## Free Cam controls
+
+Turn it on and off on the keyboard (press the same key again to go back to your car):
+
+- **F5**: free cam with the race frozen (in a replay, the replay holds where it is)
+- **F6**: free cam with the race still running
+
+On-screen UI is hidden while the free cam is on.
+
+**Keyboard and mouse**
+
+| | |
+|---|---|
+| Move forward / back | W / S, or Up / Down arrow |
+| Move left / right | A / D |
+| Up | E or Space |
+| Down | Q, C or Left Ctrl |
+| Look | Mouse, or I / K (up / down) and J / L (left / right); Left / Right arrow also turn |
+| Faster / slower | Shift + plus / Shift + minus, or numpad + / - (two presses double or halve it, 1/8x to 16x) |
+
+**Controller**
+
+| | |
+|---|---|
+| Move | Left stick |
+| Look | Right stick |
+| Up | A (Cross on PlayStation), or click the left stick |
+| Down | Click the right stick |
+| Tilt the camera | Right trigger clockwise, left trigger anticlockwise; both fully pressed = level again |
+
+Fly with **F5** when you use a controller: with F6 the controller also still drives your car.
+
 ## Credits
 
 - Auto Club Speedway for Assetto Corsa (619_fontana22): simracertgirl (ported from NASCAR Heat 5)
 - acu_mexico_2021: ACU (Assetto Corsa Union)
-- AI update: mksg
 - tyre wall model (tyrewall2x3.kn5): VRC
 
 ## Updates
