@@ -27,11 +27,11 @@
   "freecam": {
    "name": "Free Cam",
    "type": "mod",
-   "description": "Free camera in races and replays. F5 = free cam with the race frozen (in a replay: the replay is held where you are), F6 = free cam with the race running; press the same key again to go back. While flying: mouse or I/J/K/L = look, controller triggers = tilt (roll) the camera (right trigger clockwise, left anticlockwise, both triggers fully = level again), Shift + plus / Shift + minus (or numpad + / -) = faster / slower in steps (two presses = double / half, 1/8x to 16x). All on-screen UI is hidden while the free cam is on and comes back when you turn it off, and the replay's own controls don't react while you fly around.",
-   "version": "1.0.8",
-   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.8/FreeCam-1.0.8.zip",
-   "sha256": "43801264d0522e4c09f5f40c9c4f032d7623b5564997e1502c2f760e2f2c51d5",
-   "size": 127734,
+   "description": "Free camera in races and replays. F5 = free cam with the race frozen (in a replay: the replay is held where you are), F6 = free cam with the race running; press the same key again to go back. While flying: mouse or I/J/K/L = look, controller triggers = tilt (roll) the camera (right trigger clockwise, left anticlockwise, both triggers fully = level again), Shift + plus / Shift + minus (or numpad + / -) = faster / slower in steps (two presses = double / half, 1/8x to 16x). All on-screen UI is hidden while the free cam is on and comes back when you turn it off, and the replay's own controls don't react while you fly around. Offline only: mods are for offline play only, and this one runs only with the NASCAR 26 Mods Loader 1.3.0 or newer, whose offline lock closes the game if it goes online with mods in it.",
+   "version": "1.0.10",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.10/FreeCam-1.0.10.zip",
+   "sha256": "450a3aabad58443f0edc00a8c84a8310041522008255cc0f2d093b14d2a11a2c",
+   "size": 128187,
    "credits": []
   },
   "mexico": {
@@ -60,39 +60,39 @@
   "camera-tool": {
    "name": "Camera Tool + Virtual Mirror",
    "type": "mod",
-   "description": "Move and zoom the seven driving cameras for each series (cockpit, cockpit 2, hood, roof, bumper, chase, far chase) and see the change in your car straight away, resize the on-screen virtual mirror, and allow the virtual mirror in the cockpit views. A small window opens with the game and your settings are put back every time it starts. No game files are changed. Not advisable in multiplayer.",
-   "version": "1.0.0",
-   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/camera-tool-1.0.0/CameraToolVirtualMirror-1.0.0.zip",
-   "sha256": "d5a0c7568c681b59fc8d8f88606558d084a3d3ccbfa2b8a6a70a0a1d2718f459",
-   "size": 32077615,
+   "description": "Move and zoom the seven driving cameras for each series (cockpit, cockpit 2, hood, roof, bumper, chase, far chase) and see the change in your car straight away, resize the on-screen virtual mirror, and allow the virtual mirror in the cockpit views. A small window opens with the game and your settings are put back every time it starts. No game files are changed. Offline only: mods are for offline play only; this one runs only with the NASCAR 26 Mods Loader 1.3.0 or newer, whose offline lock closes the game if it goes online with mods in it.",
+   "version": "1.0.1",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/camera-tool-1.0.1/CameraToolVirtualMirror-1.0.1.zip",
+   "sha256": "358948d090cf9ec76626866433da6f9ceefe97811110377be8b718d57bd0706c",
+   "size": 32083463,
    "credits": []
   },
   "controller-rumble": {
    "name": "Controller Rumble",
    "type": "mod",
-   "description": "Vibration for controller players that tells you what the car is doing, the way force feedback does on a wheel. It feels the game's own steering force (the one it sends a wheel): weight in the corners that goes light as the front lets go, bumps in the road, losing grip past the tyres' real limits (a snap as the front lets go, then the rubber scrubbing and chattering), a warning that beats faster and harder as the rear gets loose under power, before it spins, lock-ups and wheelspin, the engine pulling into the shift point and the rev limiter, gear shifts, door to door rubbing, scraping a wall, hits and crashes, and a very slight buzz on the straights. Works with Xbox pads and other XInput pads, and with PlayStation 4 and 5 pads (DualShock 4, DualSense, DualSense Edge) over USB or Bluetooth, with or without Steam Input. It follows the game's own Vibration strength setting, and stays quiet when the game's driving vibration is off. Ctrl+F7 weaker, Ctrl+F8 stronger, Ctrl+F9 on or off. Settings are in %LOCALAPPDATA%\\NASCAR26Rumble\\settings.ini. It goes quiet while the AI Driver mod's AI drives your car. It only reads the car's data and sends vibration to your own pad, so it changes nothing in the race. Wheels aren't touched.",
-   "version": "1.0.0",
-   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/controller-rumble-1.0.0/ControllerRumble-1.0.0.zip",
-   "sha256": "47318bdd4af3cf841b231f29addebb0effb3b5feae20f67686756e89abe45faa",
-   "size": 163280,
+   "description": "Vibration for controller players that tells you what the car is doing, the way force feedback does on a wheel. It feels the game's own steering force (the one it sends a wheel): weight in the corners that goes light as the front lets go, bumps in the road, losing grip past the tyres' real limits (a snap as the front lets go, then the rubber scrubbing and chattering), a warning that beats faster and harder as the rear gets loose under power, before it spins, lock-ups and wheelspin, the engine pulling into the shift point and the rev limiter, gear shifts, door to door rubbing, scraping a wall, hits and crashes, and a very slight buzz on the straights. Works with Xbox pads and other XInput pads, and with PlayStation 4 and 5 pads (DualShock 4, DualSense, DualSense Edge) over USB or Bluetooth, with or without Steam Input. It follows the game's own Vibration strength setting, and stays quiet when the game's driving vibration is off. Ctrl+F7 weaker, Ctrl+F8 stronger, Ctrl+F9 on or off. Settings are in %LOCALAPPDATA%\\NASCAR26Rumble\\settings.ini. It goes quiet while the AI Driver mod's AI drives your car. It only reads the car's data and sends vibration to your own pad, so it changes nothing in the race. Wheels aren't touched. Offline only: mods are for offline play only, and this one runs only with the NASCAR 26 Mods Loader 1.3.0 or newer, whose offline lock closes the game if it goes online with mods in it.",
+   "version": "1.0.1",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/controller-rumble-1.0.1/ControllerRumble-1.0.1.zip",
+   "sha256": "74467fe8432e8872d2b87032d6bdfb97284662bea188020a575a6aa7937f778b",
+   "size": 163929,
    "credits": []
   },
   "ai-stability-fix": {
    "name": "AI Stability Fix",
    "type": "mod",
-   "description": "Makes the game's own AI Stability slider work the way it does in NASCAR 25. NASCAR 25 checks the Stability limit against each contact point of a touch on its own; NASCAR 26 adds up every contact point first, so almost every rub passes at any setting and the slider changes nothing. This mod checks per contact point again, with the limit spread over the sizes real NASCAR 26 contacts have: Stability 0 = almost any touch upsets the AI, 10-20 = most solid hits, 50 = hard hits, 100 = only crashes. A car that loses it after a hit also loses grip for a moment, through the game's own incident grip loss (Stability = how much, Recovery Skill = how long), so hits can spin it. Only the car that was hit; your car is never touched. Offline races only. Settings and a log of every contact are in %LOCALAPPDATA%\\NASCAR26AISliders.",
-   "version": "1.0.0",
-   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/ai-stability-fix-1.0.0/AIStabilityFix-1.0.0.zip",
-   "sha256": "9d3082e33877a99effc43ebc712bf5eddbd3927ca6cc5add78bccd59b2f55665",
-   "size": 116447,
+   "description": "Makes the game's own AI Stability slider work the way it does in NASCAR 25. NASCAR 25 checks the Stability limit against each contact point of a touch on its own; NASCAR 26 adds up every contact point first, so almost every rub passes at any setting and the slider changes nothing. This mod checks per contact point again, with the limit spread over the sizes real NASCAR 26 contacts have: Stability 0 = almost any touch upsets the AI, 10-20 = most solid hits, 50 = hard hits, 100 = only crashes. A car that loses it after a hit also loses grip for a moment, through the game's own incident grip loss (Stability = how much, Recovery Skill = how long), so hits can spin it. Only the car that was hit; your car is never touched. Offline races only. Settings and a log of every contact are in %LOCALAPPDATA%\\NASCAR26AISliders. Offline only: mods are for offline play only, and this one runs only with the NASCAR 26 Mods Loader 1.3.0 or newer, whose offline lock closes the game if it goes online with mods in it.",
+   "version": "1.0.1",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/ai-stability-fix-1.0.1/AIStabilityFix-1.0.1.zip",
+   "sha256": "4983e1a59906d8cb9c3199c8d91d8a1f3c983ef20e9b6b8fefc892ab8b5ab6bc",
+   "size": 117095,
    "credits": []
   }
  },
  "manager": {
-  "version": "1.0.19",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.19/NASCAR26-ModManager-1.0.19.zip",
-  "sha256": "cf4966e498deb79e0a0662740b213260732263c821be7015d96a50b1910fea10",
-  "notes": "Fixes 1.0.18: after a NASCAR 26 Modding Tool change, the game the Mod Manager starts again could come up without any mods. It now waits for the PC to settle before starting the game, and the loader (1.2.1) unlocks mods faster. Every game start is logged (Win64\\n26loader.log, included in Tools > Copy report)."
+  "version": "1.0.20",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.20/NASCAR26-ModManager-1.0.20.zip",
+  "sha256": "64dd6deaf10a9330164e00b79cbee940081f879f30acefd14b24f074478a6d2e",
+  "notes": "Offline only: mods are for offline play only. NASCAR 26 now closes itself the moment it starts going online with mods or tracks in it (NASCAR 26 Mods Loader 1.3.0), and every DLL mod runs only while that lock is on. To race online, press Play online (no mods) in the Mod Manager: that start of the game has no mods at all, and they are back the next time you start the game normally. Mod Manager and mod updates now install in one go (one restart)."
  },
- "updated": "2026-11-11T17:23:35"
+ "updated": "2026-11-12T14:42:49"
 }
