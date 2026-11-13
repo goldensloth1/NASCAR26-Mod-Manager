@@ -16,13 +16,13 @@ Mods are for offline play only. With mods installed, NASCAR 26 closes itself the
 
 | | Version | Download |
 |---|---|---|
-| AI Stability Fix | 1.0.1 | [AIStabilityFix-1.0.1.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/ai-stability-fix-1.0.1/AIStabilityFix-1.0.1.zip) (114.4 KB) |
-| All Tracks - every track in every series | 1.0.0 | [AllTracks-1.0.0.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/alltracks-1.0.0/AllTracks-1.0.0.zip) (104.0 KB) |
-| Auto Club Speedway (Fontana) | 0.4.0 | [AutoClubSpeedway-0.4.0.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/autoclub-0.4.0/AutoClubSpeedway-0.4.0.zip) (183.4 MB) |
-| Camera Tool + Virtual Mirror | 1.0.2 | [CameraToolVirtualMirror-1.0.2.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/camera-tool-1.0.2/CameraToolVirtualMirror-1.0.2.zip) (30.6 MB) |
-| Controller Rumble | 1.0.1 | [ControllerRumble-1.0.1.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/controller-rumble-1.0.1/ControllerRumble-1.0.1.zip) (160.1 KB) |
+| AI Stability Fix | 1.0.2 | [AIStabilityFix-1.0.2.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/ai-stability-fix-1.0.2/AIStabilityFix-1.0.2.zip) (114.8 KB) |
+| All Tracks - every track in every series | 1.0.2 | [AllTracks-1.0.2.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/alltracks-1.0.2/AllTracks-1.0.2.zip) (87.0 KB) |
+| Auto Club Speedway (Fontana) | 0.4.1 | [AutoClubSpeedway-0.4.1.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/autoclub-0.4.1/AutoClubSpeedway-0.4.1.zip) (183.3 MB) |
+| Camera Tool + Virtual Mirror | 1.0.3 | [CameraToolVirtualMirror-1.0.3.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/camera-tool-1.0.3/CameraToolVirtualMirror-1.0.3.zip) (30.6 MB) |
+| Controller Rumble | 1.0.2 | [ControllerRumble-1.0.2.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/controller-rumble-1.0.2/ControllerRumble-1.0.2.zip) (160.6 KB) |
 | Free Cam | 1.0.10 | [FreeCam-1.0.10.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/freecam-1.0.10/FreeCam-1.0.10.zip) (125.2 KB) |
-| Mexico City - Autódromo Hermanos Rodríguez (NASCAR layout) | 1.5.11 | [MexicoCity-1.5.11.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/mexico-1.5.11/MexicoCity-1.5.11.zip) (179.4 MB) |
+| Mexico City - Autódromo Hermanos Rodríguez (NASCAR layout) | 1.5.12 | [MexicoCity-1.5.12.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/mexico-1.5.12/MexicoCity-1.5.12.zip) (179.4 MB) |
 
 ## Free Cam controls
 
