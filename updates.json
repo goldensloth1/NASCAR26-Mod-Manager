@@ -61,10 +61,10 @@
    "name": "Camera Tool + Virtual Mirror",
    "type": "mod",
    "description": "Move and zoom the seven driving cameras for each series (cockpit, cockpit 2, hood, roof, bumper, chase, far chase) and see the change in your car straight away, resize the on-screen virtual mirror, and allow the virtual mirror in the cockpit views. A small window opens with the game and your settings are put back every time it starts. No game files are changed. Offline only: mods are for offline play only; this one runs only with the NASCAR 26 Mods Loader 1.3.0 or newer, whose offline lock closes the game if it goes online with mods in it.",
-   "version": "1.0.1",
-   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/camera-tool-1.0.1/CameraToolVirtualMirror-1.0.1.zip",
-   "sha256": "358948d090cf9ec76626866433da6f9ceefe97811110377be8b718d57bd0706c",
-   "size": 32083463,
+   "version": "1.0.2",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/camera-tool-1.0.2/CameraToolVirtualMirror-1.0.2.zip",
+   "sha256": "b06ddf756642ac254c668e630241e944685e88cf21b0b2c496d46a4cae9bd70c",
+   "size": 32084829,
    "credits": []
   },
   "controller-rumble": {
@@ -94,5 +94,5 @@
   "sha256": "64dd6deaf10a9330164e00b79cbee940081f879f30acefd14b24f074478a6d2e",
   "notes": "Offline only: mods are for offline play only. NASCAR 26 now closes itself the moment it starts going online with mods or tracks in it (NASCAR 26 Mods Loader 1.3.0), and every DLL mod runs only while that lock is on. To race online, press Play online (no mods) in the Mod Manager: that start of the game has no mods at all, and they are back the next time you start the game normally. Mod Manager and mod updates now install in one go (one restart)."
  },
- "updated": "2026-11-12T14:42:49"
+ "updated": "2026-11-13T00:46:36"
 }
