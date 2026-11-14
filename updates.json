@@ -94,10 +94,10 @@
   }
  },
  "manager": {
-  "version": "1.0.20",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.20/NASCAR26-ModManager-1.0.20.zip",
-  "sha256": "64dd6deaf10a9330164e00b79cbee940081f879f30acefd14b24f074478a6d2e",
-  "notes": "Offline only: mods are for offline play only. NASCAR 26 now closes itself the moment it starts going online with mods or tracks in it (NASCAR 26 Mods Loader 1.3.0), and every DLL mod runs only while that lock is on. To race online, press Play online (no mods) in the Mod Manager: that start of the game has no mods at all, and they are back the next time you start the game normally. Mod Manager and mod updates now install in one go (one restart)."
+  "version": "1.0.21",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.21/NASCAR26-ModManager-1.0.21.zip",
+  "sha256": "a7f596c04607242407a64fe255e5a9fab2719cec6c846a2e8be0c8b69280fdd2",
+  "notes": "Your mods can't be left half updated any more: while the Mod Manager is updating, its window can't be closed and NASCAR 26 won't start (a game started from Steam closes with a message). After a NASCAR 26 update, starting the game opens the Mod Manager first so your mods get updated. In-game loader 1.3.1."
  },
- "updated": "2026-11-13T17:37:29"
+ "updated": "2026-11-13T23:07:03"
 }
