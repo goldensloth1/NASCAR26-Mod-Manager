@@ -109,10 +109,10 @@
   }
  },
  "manager": {
-  "version": "1.0.22",
-  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.22/NASCAR26-ModManager-1.0.22.zip",
-  "sha256": "a0373c017ad564059e4db06f67384cdaf67efca6ce49b0ec9b0ed0441d7f49fe",
-  "notes": "NASCAR 26 update 26790457 (2026-11-19): track list for the new build; Mods Loader 1.3.2 unlocks mod paks at once (fixes tracks missing on some starts); Camera Tool 1.0.4 knows the new game exe."
+  "version": "1.0.23",
+  "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/v1.0.23/NASCAR26-ModManager-1.0.23.zip",
+  "sha256": "c3eb210d13d849b40720e1d47544b0e647f5068c51fc052c2040693b9aaf368f",
+  "notes": "NASCAR 26 can't start while the Mod Manager is installing or updating mods. If NASCAR 26 is stuck running in the background with no window (after it hung while closing or crashed), the Mod Manager now says so and can end it, instead of saying the game is open."
  },
- "updated": "2026-11-24T12:11:27"
+ "updated": "2026-11-24T12:19:23"
 }
