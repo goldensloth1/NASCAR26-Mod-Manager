@@ -60,11 +60,11 @@
   "alltracks": {
    "name": "All Tracks - every track in every series",
    "type": "track",
-   "description": "Every NASCAR 26 track in Cup, O'Reilly, Truck and ARCA Quick Race, each in its own slot: 37 new races, nothing replaced. Your stock races and Career are not changed. (The Chicago Street Course and the Charlotte Roval are no longer in it: the November 13 2026 game update took their scenery out of the game.)",
-   "version": "1.0.2",
-   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/alltracks-1.0.2/AllTracks-1.0.2.zip",
-   "sha256": "b21f45417b133b371ad5abf130a827e1e54366184a7254dce60d120ef4063296",
-   "size": 89129,
+   "description": "Every NASCAR 26 track in Cup, O'Reilly, Truck and ARCA Quick Race, each in its own slot: 45 new races, nothing replaced, plus the Chicago Street Course and the Charlotte Roval (their scenery, which the November 13 2026 game update took out of the game, ships in the mod). Your stock races and Career are not changed.",
+   "version": "1.0.3",
+   "url": "https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/alltracks-1.0.3/AllTracks-1.0.3.zip",
+   "sha256": "062e47d55cf144cba60b46887c733fbac1a92b0bc2120a2bc911a23ea821d5eb",
+   "size": 692433310,
    "credits": []
   },
   "camera-tool": {
@@ -114,5 +114,5 @@
   "sha256": "a0373c017ad564059e4db06f67384cdaf67efca6ce49b0ec9b0ed0441d7f49fe",
   "notes": "NASCAR 26 update 26790457 (2026-11-19): track list for the new build; Mods Loader 1.3.2 unlocks mod paks at once (fixes tracks missing on some starts); Camera Tool 1.0.4 knows the new game exe."
  },
- "updated": "2026-11-20T18:28:10"
+ "updated": "2026-11-24T12:11:27"
 }

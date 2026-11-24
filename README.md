@@ -17,7 +17,7 @@ Mods are for offline play only. With mods installed, NASCAR 26 closes itself the
 | | Version | Download |
 |---|---|---|
 | AI Stability Fix | 1.0.2 | [AIStabilityFix-1.0.2.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/ai-stability-fix-1.0.2/AIStabilityFix-1.0.2.zip) (114.8 KB) |
-| All Tracks - every track in every series | 1.0.2 | [AllTracks-1.0.2.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/alltracks-1.0.2/AllTracks-1.0.2.zip) (87.0 KB) |
+| All Tracks - every track in every series | 1.0.3 | [AllTracks-1.0.3.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/alltracks-1.0.3/AllTracks-1.0.3.zip) (660.4 MB) |
 | Auto Club Speedway (Fontana) | 0.4.1 | [AutoClubSpeedway-0.4.1.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/autoclub-0.4.1/AutoClubSpeedway-0.4.1.zip) (183.3 MB) |
 | Blowover | 1.0.0 | [Blowover-1.0.0.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/blowover-1.0.0/Blowover-1.0.0.zip) (123.3 KB) |
 | Camera Tool + Virtual Mirror | 1.0.4 | [CameraToolVirtualMirror-1.0.4.zip](https://github.com/goldensloth1/NASCAR26-Mod-Manager/releases/download/camera-tool-1.0.4/CameraToolVirtualMirror-1.0.4.zip) (30.6 MB) |
